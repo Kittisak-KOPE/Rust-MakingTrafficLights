@@ -1,4 +1,4 @@
-# Physical Computing with Rust
+# Raspberry Pi with Rust
 
 ## Steps
 
